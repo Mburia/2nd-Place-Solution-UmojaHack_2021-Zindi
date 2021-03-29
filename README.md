@@ -3,5 +3,5 @@ Sendy links customers who have delivery needs with vetted transporters (from bik
 
 The objective of this challenge was to create a machine learning model that will predict whether a rider will accept, decline or ignore an order sent to them. Picking the best rider to service the order will improve the experience of the customer and potentially save on time since the rider won’t cancel, creating a more efficient service overall.
 
-The solution provided here ranked 2nd out of 443 data scientists enrolled & 266 on the leaderboard on the Zindi Competitions platform. 
+The solution provided here ranked 2nd out of 266 competitors on the leaderboard on the Zindi Competitions platform. 
 https://zindi.africa/hackathons/umojahack-africa-2021-2-sendy-challenge-intermediate
